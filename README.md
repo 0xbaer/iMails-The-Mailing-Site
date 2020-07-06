@@ -28,11 +28,4 @@ All copyrights reserved by iMails 2019
 8. Now your project is ready to run
     open this link on your browser http://localhost/imails
     
-Thank You for your support!!!
-
-**Please follow us on:**
-
-https://www.facebook.com/InvertBitt/  </br>
-https://youtu.be/dPcJc_htxw8  </br>
-https://twitter.com/Ankesh_AAG  </br>
-https://github.com/ankesh06g  </br>
+Thank You for your support!
